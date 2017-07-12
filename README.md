@@ -3,7 +3,7 @@ swagger-codegen-gradle-plugin
 
 [![Build Status](https://travis-ci.org/thebignet/swagger-codegen-gradle-plugin.svg?branch=master)](https://travis-ci.org/thebignet/swagger-codegen-gradle-plugin)
 
-A Gradle plugin to support the [swagger](http://swagger.io) code generation project
+A Gradle plugin to support the [swagger](http://swagger.io) code generation project. This fork uses the 2.3.0 version snapshot of the codegen library.
 
 Usage
 ============================
